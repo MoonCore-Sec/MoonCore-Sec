@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**MoonCore-Sec/MoonCore-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Hi, my name is MoonCore (I won't use my real name for privacy reasons). Below you'll find what I do and have done in     my life. I hope it's interesting and can help you understand who I am. ---
+--> who I am
+> I'm studying at an ITIS in Catania (IT)
+> I'm currently studying Java, and the ISO-OSI model
+> You can contact me via my email: MoonCore.Sec@proton.me
+--> At the moment I'm working on:
+> Linux
+> Bash
+> OSINT
+> Scripting
+> Network Security
+--> projects:
+>
+--> platforms:
+>

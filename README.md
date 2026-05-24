@@ -15,12 +15,6 @@ Contact: MoonCore.Sec@proton.me
 
 ## Currently Working On
 
-- Linux
-- Bash Scripting
-- OSINT
-- Network Security
-- Java
-
 ---
 
 ## Projects

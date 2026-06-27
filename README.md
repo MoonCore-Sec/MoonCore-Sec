@@ -1,6 +1,6 @@
 # MoonCore-Sec
 
-Cybersecurity enthusiast | ITIS Student | Ethical Hacking
+Cybersecurity enthusiast | ITIS Student | junior 
 
 ---
 

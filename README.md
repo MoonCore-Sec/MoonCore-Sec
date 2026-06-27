@@ -6,8 +6,8 @@ Cybersecurity enthusiast | ITIS Student | Ethical Hacking
 
 ## Who I Am
 
-Hi, I'm **MoonCore** (privacy reasons, no real name here).
-I'm studying at an ITIS in Catania, Italy — currently focused on Java and the ISO/OSI model.
+Hi, I'm **MoonCore** (real name: Angelo Kevin B.).
+I'm studying at an ITIS in Catania, Italy
 
 Contact: MoonCore.Sec@proton.me
 
@@ -25,4 +25,4 @@ Contact: MoonCore.Sec@proton.me
 
 ## Platforms
 
-*Coming soon.*
+Linkedin: https://www.linkedin.com/in/angelo-b-493332411/
